@@ -16,6 +16,7 @@ public class LoginPage extends BasePage {
 	By password = By.id("_password");
 	By loginBtn = By.cssSelector("input[type='submit'][value='Login']");
 	By signUpNow = By.linkText("Sign Up Now");
+	By random=By.xpath("");
 
 	By homePageHeader = By.xpath("//span[text()='Homepage']");
 
