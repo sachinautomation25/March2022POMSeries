@@ -1,0 +1,96 @@
+{
+  "uid" : "66511a65494290dd",
+  "name" : "verifyHomePageTitleTest",
+  "fullName" : "com.qa.trcrm.tests.HomePageTest.verifyHomePageTitleTest",
+  "historyId" : "36182c5672e4a302ad308631f63eb69b",
+  "time" : {
+    "start" : 1647271946999,
+    "stop" : 1647271947051,
+    "duration" : 52
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1647271922287,
+      "stop" : 1647271946395,
+      "duration" : 24108
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1647271947724,
+      "stop" : 1647271948748,
+      "duration" : 1024
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.qa.trcrm.tests.HomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.qa.trcrm.tests.HomePageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyHomePageTitleTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.qa.trcrm.tests.HomePageTest"
+  }, {
+    "name" : "host",
+    "value" : "Sachin-Sharma"
+  }, {
+    "name" : "thread",
+    "value" : "16920@Sachin-Sharma.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66511a65494290dd.json",
+  "parameterValues" : [ ]
+}

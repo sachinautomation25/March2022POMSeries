@@ -1,0 +1,61 @@
+[ {
+  "uid" : "c9b487a4b44d5bfd",
+  "name" : "verifySignUpLinkTest",
+  "time" : {
+    "start" : 1647272581303,
+    "stop" : 1647272581484,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "2ab75d21df90e8b0",
+  "name" : "verifyLoginPageTitleTest",
+  "time" : {
+    "start" : 1647272580771,
+    "stop" : 1647272580793,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41d55e07fe2a92f0",
+  "name" : "verifyLoggedInUserTest",
+  "time" : {
+    "start" : 1647272593027,
+    "stop" : 1647272613750,
+    "duration" : 20723
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "90b5ae08dd6360dc",
+  "name" : "verifyHomePageHeaderTest",
+  "time" : {
+    "start" : 1647272581497,
+    "stop" : 1647272581671,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b46b11eb01147a64",
+  "name" : "verifyHomePageTitleTest",
+  "time" : {
+    "start" : 1647272581260,
+    "stop" : 1647272581284,
+    "duration" : 24
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fb02192804cd30a",
+  "name" : "loginTest",
+  "time" : {
+    "start" : 1647272581684,
+    "stop" : 1647272593017,
+    "duration" : 11333
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

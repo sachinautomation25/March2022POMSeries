@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Expected condition failed: waiting for presence of element located by: By.xpath: //span[text()=' sachin sharma'] (tried for 20 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "verifyLoggedInUserTest",
+        "uid" : "41d55e07fe2a92f0",
+        "parentUid" : "d9918ab37d213a40d8bf825eac6ca08d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647272593027,
+          "stop" : 1647272613750,
+          "duration" : 20723
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d9918ab37d213a40d8bf825eac6ca08d"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

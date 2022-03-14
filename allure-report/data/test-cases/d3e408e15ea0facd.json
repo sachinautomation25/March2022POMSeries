@@ -1,0 +1,139 @@
+{
+  "uid" : "d3e408e15ea0facd",
+  "name" : "loginTest",
+  "fullName" : "com.qa.trcrm.tests.LoginPageTest.loginTest",
+  "historyId" : "2007fe506eaf6bf3fccff0a64bda52dd",
+  "time" : {
+    "start" : 1647271244092,
+    "stop" : 1647271254371,
+    "duration" : 10279
+  },
+  "description" : "verify login test",
+  "descriptionHtml" : "<p>verify login test</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1647271211893,
+      "stop" : 1647271235446,
+      "duration" : 23553
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1647271235447,
+      "stop" : 1647271243111,
+      "duration" : 7664
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1647271255416,
+      "stop" : 1647271256433,
+      "duration" : 1017
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1647271256434,
+      "stop" : 1647271257773,
+      "duration" : 1339
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.qa.trcrm.tests.LoginPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.qa.trcrm.tests.LoginPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "trcrm app regression Suite"
+  }, {
+    "name" : "suite",
+    "value" : "regression Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.qa.trcrm.tests.LoginPageTest"
+  }, {
+    "name" : "host",
+    "value" : "Sachin-Sharma"
+  }, {
+    "name" : "thread",
+    "value" : "11304@Sachin-Sharma.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "US-1001:create features for login with signup,title and login"
+  }, {
+    "name" : "epic",
+    "value" : "Epic-101:define login feature for trcrm apllication"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3e408e15ea0facd.json",
+  "parameterValues" : [ ]
+}

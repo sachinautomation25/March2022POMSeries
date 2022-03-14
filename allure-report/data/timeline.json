@@ -1,0 +1,488 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Sachin-Sharma",
+    "children" : [ {
+      "name" : "16920@Sachin-Sharma.main(1)",
+      "children" : [ {
+        "name" : "verifyLoggedInUserTest",
+        "uid" : "46c599d815722276",
+        "parentUid" : "4bb9579655ec28266bc8585aa3630fdd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647271947624,
+          "stop" : 1647271947717,
+          "duration" : 93
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePageHeaderTest",
+        "uid" : "d138e0b74c82a60f",
+        "parentUid" : "4bb9579655ec28266bc8585aa3630fdd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647271947403,
+          "stop" : 1647271947563,
+          "duration" : 160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePageTitleTest",
+        "uid" : "66511a65494290dd",
+        "parentUid" : "4bb9579655ec28266bc8585aa3630fdd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647271946999,
+          "stop" : 1647271947051,
+          "duration" : 52
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4bb9579655ec28266bc8585aa3630fdd"
+    }, {
+      "name" : "15376@Sachin-Sharma.main(1)",
+      "children" : [ {
+        "name" : "verifyHomePageHeaderTest",
+        "uid" : "61eb24a5291a7792",
+        "parentUid" : "f60cdf97f1dfd16a694df6e84a731523",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647262129347,
+          "stop" : 1647262129498,
+          "duration" : 151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePageTitleTest",
+        "uid" : "4ca71788d6dda51a",
+        "parentUid" : "f60cdf97f1dfd16a694df6e84a731523",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647262126899,
+          "stop" : 1647262129164,
+          "duration" : 2265
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySignUpLinkTest",
+        "uid" : "b339b170ff55220a",
+        "parentUid" : "f60cdf97f1dfd16a694df6e84a731523",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647262129191,
+          "stop" : 1647262129339,
+          "duration" : 148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLoginPageTitleTest",
+        "uid" : "3ed28db3de798c02",
+        "parentUid" : "f60cdf97f1dfd16a694df6e84a731523",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647262125986,
+          "stop" : 1647262126010,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "e2a01b8c5af3050c",
+        "parentUid" : "f60cdf97f1dfd16a694df6e84a731523",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647262129611,
+          "stop" : 1647262140159,
+          "duration" : 10548
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLoggedInUserTest",
+        "uid" : "d8b30a382bf4c4d3",
+        "parentUid" : "f60cdf97f1dfd16a694df6e84a731523",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647262140169,
+          "stop" : 1647262140680,
+          "duration" : 511
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f60cdf97f1dfd16a694df6e84a731523"
+    }, {
+      "name" : "19560@Sachin-Sharma.main(1)",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "8f174207271fded4",
+        "parentUid" : "38ab3d7e2cba2feb3417323f57320294",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647272037095,
+          "stop" : 1647272050264,
+          "duration" : 13169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePageHeaderTest",
+        "uid" : "f16927f3bb5a75b0",
+        "parentUid" : "38ab3d7e2cba2feb3417323f57320294",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647272036905,
+          "stop" : 1647272037073,
+          "duration" : 168
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLoginPageTitleTest",
+        "uid" : "38f0af1695ba3313",
+        "parentUid" : "38ab3d7e2cba2feb3417323f57320294",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647272034792,
+          "stop" : 1647272034828,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePageTitleTest",
+        "uid" : "7d6b265461969f6b",
+        "parentUid" : "38ab3d7e2cba2feb3417323f57320294",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647272035287,
+          "stop" : 1647272036713,
+          "duration" : 1426
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLoggedInUserTest",
+        "uid" : "4cbb4adaf73349a5",
+        "parentUid" : "38ab3d7e2cba2feb3417323f57320294",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647272050271,
+          "stop" : 1647272070586,
+          "duration" : 20315
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySignUpLinkTest",
+        "uid" : "9e950613eefb2862",
+        "parentUid" : "38ab3d7e2cba2feb3417323f57320294",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647272036727,
+          "stop" : 1647272036898,
+          "duration" : 171
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "38ab3d7e2cba2feb3417323f57320294"
+    }, {
+      "name" : "16256@Sachin-Sharma.main(1)",
+      "children" : [ {
+        "name" : "verifySignUpLinkTest",
+        "uid" : "c9b487a4b44d5bfd",
+        "parentUid" : "12636c31893a3e70f9e50cacffc4b3a8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647272581303,
+          "stop" : 1647272581484,
+          "duration" : 181
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePageHeaderTest",
+        "uid" : "90b5ae08dd6360dc",
+        "parentUid" : "12636c31893a3e70f9e50cacffc4b3a8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647272581497,
+          "stop" : 1647272581671,
+          "duration" : 174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "9fb02192804cd30a",
+        "parentUid" : "12636c31893a3e70f9e50cacffc4b3a8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647272581684,
+          "stop" : 1647272593017,
+          "duration" : 11333
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePageTitleTest",
+        "uid" : "b46b11eb01147a64",
+        "parentUid" : "12636c31893a3e70f9e50cacffc4b3a8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647272581260,
+          "stop" : 1647272581284,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLoggedInUserTest",
+        "uid" : "41d55e07fe2a92f0",
+        "parentUid" : "12636c31893a3e70f9e50cacffc4b3a8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647272593027,
+          "stop" : 1647272613750,
+          "duration" : 20723
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLoginPageTitleTest",
+        "uid" : "2ab75d21df90e8b0",
+        "parentUid" : "12636c31893a3e70f9e50cacffc4b3a8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647272580771,
+          "stop" : 1647272580793,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "12636c31893a3e70f9e50cacffc4b3a8"
+    }, {
+      "name" : "11304@Sachin-Sharma.main(1)",
+      "children" : [ {
+        "name" : "verifyLoggedInUserTest",
+        "uid" : "32ac6658058c7ea6",
+        "parentUid" : "0dc8bf73b89a4b070b721984606557d1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1647271254485,
+          "stop" : 1647271254663,
+          "duration" : 178
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySignUpLinkTest",
+        "uid" : "9dc8d3948b791a96",
+        "parentUid" : "0dc8bf73b89a4b070b721984606557d1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647271243821,
+          "stop" : 1647271243938,
+          "duration" : 117
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePageHeaderTest",
+        "uid" : "785904e0f05c50b2",
+        "parentUid" : "0dc8bf73b89a4b070b721984606557d1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647271243944,
+          "stop" : 1647271244075,
+          "duration" : 131
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyHomePageTitleTest",
+        "uid" : "5d19953df26eb22b",
+        "parentUid" : "0dc8bf73b89a4b070b721984606557d1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647271243782,
+          "stop" : 1647271243809,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "d3e408e15ea0facd",
+        "parentUid" : "0dc8bf73b89a4b070b721984606557d1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647271244092,
+          "stop" : 1647271254371,
+          "duration" : 10279
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLoginPageTitleTest",
+        "uid" : "be6a6e713f69db52",
+        "parentUid" : "0dc8bf73b89a4b070b721984606557d1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647271243336,
+          "stop" : 1647271243362,
+          "duration" : 26
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0dc8bf73b89a4b070b721984606557d1"
+    } ],
+    "uid" : "3343fcc4438033e01c3c6748358b292b"
+  } ]
+}

@@ -1,0 +1,128 @@
+{
+  "uid" : "f16927f3bb5a75b0",
+  "name" : "verifyHomePageHeaderTest",
+  "fullName" : "com.qa.trcrm.tests.HomePageTest.verifyHomePageHeaderTest",
+  "historyId" : "65c8793b15c3a7d8e21c6f40283db699",
+  "time" : {
+    "start" : 1647272036905,
+    "stop" : 1647272037073,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1647271989585,
+      "stop" : 1647272025058,
+      "duration" : 35473
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1647272025100,
+      "stop" : 1647272034404,
+      "duration" : 9304
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1647272076778,
+      "stop" : 1647272078927,
+      "duration" : 2149
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1647272078931,
+      "stop" : 1647272080240,
+      "duration" : 1309
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.qa.trcrm.tests.HomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.qa.trcrm.tests.HomePageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyHomePageHeaderTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "trcrm app regression Suite"
+  }, {
+    "name" : "suite",
+    "value" : "regression Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.qa.trcrm.tests.HomePageTest"
+  }, {
+    "name" : "host",
+    "value" : "Sachin-Sharma"
+  }, {
+    "name" : "thread",
+    "value" : "19560@Sachin-Sharma.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f16927f3bb5a75b0.json",
+  "parameterValues" : [ ]
+}
