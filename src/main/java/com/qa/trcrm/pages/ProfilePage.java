@@ -19,4 +19,8 @@ public class ProfilePage extends BasePage {
   {
     System.out.println("get3");
   }
+	 public void get4()
+  {
+    System.out.println("get4");
+  }
 }
