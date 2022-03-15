@@ -11,4 +11,7 @@ public class RegPage extends BasePage {
 	public RegPage(WebDriver driver) {
 		this.driver = driver;
 	}
+	public void start() {
+		System.out.println("reg start")
+	}
 }
