@@ -7,9 +7,8 @@ import com.qa.trcrm.base.BasePage;
 public class DealsPage extends BasePage {
 
 	WebDriver driver;
-	
-	public DealsPage(WebDriver driver)
-	{
-		this.driver=driver;
+
+	public DealsPage(WebDriver driver) {
+		this.driver = driver;
 	}
 }
