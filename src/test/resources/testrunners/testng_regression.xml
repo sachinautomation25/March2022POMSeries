@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="trcrm app regression Suite">
-<listeners>
-<!-- <listener class-name="com.qa.trcrm.listeners.ExtentReportListener"></listener> -->
-<listener class-name="com.qa.trcrm.listeners.TestAllureListener"></listener>
-</listeners>
-	<test name="regression Test" verbose="2">
+	<listeners>
+		<!-- <listener class-name="com.qa.trcrm.listeners.ExtentReportListener"></listener> -->
+		<listener
+			class-name="com.qa.trcrm.listeners.TestAllureListener"></listener>
+	</listeners>
+	<test name="regression Test" verbose="2" thread-count="3" parallel="methods">
 
 		<classes>
 			<class name="com.qa.trcrm.tests.LoginPageTest" />
 			<class name="com.qa.trcrm.tests.HomePageTest" />
+			<class name="com.qa.trcrm.tests.ContactPageTest" />
+			
+
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
