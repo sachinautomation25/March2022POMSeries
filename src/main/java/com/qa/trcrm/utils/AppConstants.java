@@ -9,5 +9,11 @@ public class AppConstants {
 	
 	public static final int DEFAULT_EXPLICT_TIME_OUT = 20;
 	
+	public static final String CONTACTS_PAGE_HEADER = "Contact";
+	public static final String CONTACTS_PERSON_ADDED = "Person added.";
+	
+	public static final String TEST_SHEET_DATA="./src/main/java/com/qa/trcrm/testdata/TestData.xlsx";
+	public static final String CONTACTS_SHEET_NAME = "contacts2"; 
+	
 	
 }
