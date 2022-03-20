@@ -15,6 +15,7 @@ import com.qa.trcrm.pages.HomePage;
 import com.qa.trcrm.pages.LoginPage;
 import com.qa.trcrm.utils.AppConstants;
 import com.qa.trcrm.utils.ExcelUtil;
+import com.qa.trcrm.utils.JiraPolicy;
 
 public class ContactPageTest {
 
@@ -36,6 +37,7 @@ public class ContactPageTest {
 
 	}
 
+	@JiraPolicy(logTicketReady = true)
 	@Test(priority = 1)
 	public void verifyContactPageHeaderTest() {
 		Assert.assertEquals(contactPage.verifyContactPageHeader(), AppConstants.CONTACTS_PAGE_HEADER);
