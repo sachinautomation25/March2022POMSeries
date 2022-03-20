@@ -18,7 +18,7 @@ public class JiraServiceProvider {
 	public String project;
 
 	public JiraServiceProvider(String jiraUrl, String username, String password, String project) {
-		BasicCredentials creds = new BasicCredentials(username, password);
+		BasicCredentials creds = new BasicCredentials(username, password.replace("/", ""));
 		jira = new JiraClient(jiraUrl, creds);
 		this.project = project;
 	}
